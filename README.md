@@ -82,7 +82,7 @@ make wallet
 
 The wallet will show you a menu with available options, that you can navigate with the arrow keys and the enter key.
 
-Note that the wallet is a seperate process from the node, and thus closing the wallet does not stop the node from running.
+Note that the wallet is a separate process from the node, and thus closing the wallet does not stop the node from running.
 
 ## License
 
